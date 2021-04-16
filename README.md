@@ -1,4 +1,4 @@
-# R-Studio-JobSkills
+# R Studio and PyCharm 
 
 #### Created April 15, 2021
 
